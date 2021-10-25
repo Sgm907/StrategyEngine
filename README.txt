@@ -1,2 +1,1 @@
-For my 3rd milestone, I decied to do some Scnee graph work so that I could parent UI elements to the camera, and have individual unit models group together into an army.  However, I hit a 
-small delay in my production.  I managed to finish the Scenegraph stuff, but I didn't have time to actually set up the presentation I'll have for the final presentation
+Work In Progress
